@@ -1,0 +1,10 @@
+export const HOME = 'Shopping';
+export const CART = 'My Cart';
+export const CATEGORİES = 'Categories';
+export const PROFILE = 'Profile';
+export const FAVORİTES = 'Favorites';
+export const TAB = 'TabNavigator';
+export const PRODUCTLIST = 'All Products';
+export const PRODUCTDETAIL = 'Product Detail';
+export const CHECKOUT = 'Payment';
+export const LOGIN = 'Login';
